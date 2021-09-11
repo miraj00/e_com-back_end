@@ -25,7 +25,6 @@ E_com-back_end App is Sequelize Model based back-end databse. It uses CRUD ( Cre
    8 Sequelize 
    * Database Queries with SELECT, INSERT, DELETE and UPDATE 
    * Insomnia Core
-   * Heroku 
 ```
 
 ## How to install : 
